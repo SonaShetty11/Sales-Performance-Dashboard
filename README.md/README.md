@@ -21,23 +21,23 @@ How do completed, pending, and returned orders affect overall order performance?
 
 ## Project Workflow
 
-Raw Sales Dataset
-            │
-            ▼
-Microsoft Excel
-(Data Cleaning & Transformation)
-            │
-            ▼
-Excel PivotTables
-(Data Analysis & Business Insights)
-            │
-            ▼
-Microsoft Excel
-(PivotCharts, KPI Cards &
-Dashboard Development)
-            │
-            ▼
-Interactive Sales Performance Dashboard
+**Raw Sales Dataset**
+
+⬇️
+
+**Microsoft Excel (Data Cleaning & Transformation)**
+
+⬇️
+
+**Excel PivotTables (Data Analysis & Business Insights)**
+
+⬇️
+
+**Microsoft Excel (PivotCharts, KPI Cards & Dashboard Development)**
+
+⬇️
+
+**Interactive Sales Performance Dashboard**
 
 ## Tools & Technologies
 
