@@ -144,7 +144,7 @@ Designed an interactive Sales Performance Dashboard in Microsoft Excel to monito
 
 ## Dashboard Screenshot
 
-![Sales Performance Dashboard](./Images/Sales%20Performance%20Dashboard.png)
+![Sales Performance Dashboard](<README/Sales Performance Dashboard.png>)
 
 ## Key Business Insights
 
